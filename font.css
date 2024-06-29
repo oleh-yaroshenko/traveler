@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Cocon";
+    src: url(fonts/cocon-regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cocon";
+    src: url(fonts/cocon-light.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cocon";
+    src: url(fonts/cocon-bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cocon Condensed";
+    src: url(fonts/cocon-condensed-regular.woff) format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cocon Condensed";
+    src: url(fonts/cocon-condensed-light.woff) format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cocon Condensed";
+    src: url(fonts/cocon-condensed-bold.woff) format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
